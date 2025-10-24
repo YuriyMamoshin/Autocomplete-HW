@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Autocomplete / should render Autocomplete component 1`] = `
+<DocumentFragment>
+  <section
+    class="autocomplete"
+  >
+    <input
+      class="autocomplete__input"
+      placeholder="Type your request"
+      type="text"
+      value=""
+    />
+  </section>
+</DocumentFragment>
+`;
